@@ -58,4 +58,4 @@ Methods:
 * Open visual studio code
 * Select menu -> File -> Open File -> (find this folder) -> Select Folder
 * Find the main.cpp file in the src section
-* then press the start button in the upper right corner
+* then press the start/run button in the upper right corner
